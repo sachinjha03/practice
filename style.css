@@ -25,8 +25,11 @@ body{
     font-size: 12px;
     padding: 1rem 1rem;
 }
-#box1{
-    background-color: cornflowerblue;
+#box2{
+    background-color: purple;
+}
+#box4{
+    background-color: brown;
 }
 #box3{
     background-color: teal;
